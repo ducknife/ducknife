@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ducknife
 - 👀 I’m interested in doing my project
-- 🌱 I’m currently learning c++, java, python,...
-- beside this, I like making poem;
+- I'm so skibidi
 
 <!---
 ducknife/ducknife is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
