@@ -19,7 +19,7 @@
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🧑‍💻 About Me</h3>
+<h3 align="center">About Me</h3>
 
 ```yaml
 name: Ducknife
@@ -38,7 +38,7 @@ currently:
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">GitHub Stats</h3>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ducknife&show_icons=true&theme=react&bg_color=0a192f&title_color=64ffda&icon_color=64ffda&text_color=8892b0&border_color=233554&hide_border=false&count_private=true" width="100%" alt="GitHub Stats" />
@@ -57,7 +57,7 @@ currently:
 
 <br/>
 
-<h2 align="center">⚙️ Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,react,js,html,css,tailwind,mysql,mongodb,postgres,git,github&theme=dark" alt="Tech Stack" />
