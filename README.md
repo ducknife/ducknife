@@ -15,7 +15,11 @@
 
 <br/>
 
-<p align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🧑‍💻 About Me</h3>
 
 ```yaml
 name: Ducknife
@@ -26,8 +30,29 @@ focus:
   - Frontend: ReactJS + TailwindCSS
   - Database: MySQL, MongoDB
 philosophy: "Write clean, ship fast, scale smart."
+currently:
+  learning: Cloud Architecture & DevOps
+  building: Scalable B2B Solutions
 ```
 
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ducknife&show_icons=true&theme=react&bg_color=0a192f&title_color=64ffda&icon_color=64ffda&text_color=8892b0&border_color=233554&hide_border=false&count_private=true" width="100%" alt="GitHub Stats" />
+</p>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ducknife&theme=react&background=0a192f&border=233554&stroke=233554&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=8892b0&currStreakNum=ccd6f6&sideNums=ccd6f6&dates=8892b0" width="53%" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducknife&layout=compact&theme=react&bg_color=0a192f&title_color=64ffda&text_color=8892b0&border_color=233554&hide_border=false&langs_count=8" width="40%" alt="Top Languages" />
 </p>
 
 <br/>
@@ -36,12 +61,6 @@ philosophy: "Write clean, ship fast, scale smart."
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,react,js,html,css,tailwind,mysql,mongodb,postgres,git,github&theme=dark" alt="Tech Stack" />
-</p>
-
-<br/>
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ducknife&theme=react&background=0a192f&border=233554&stroke=233554&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=8892b0&currStreakNum=ccd6f6&sideNums=ccd6f6&dates=8892b0" width="60%" alt="GitHub Streak" />
 </p>
 
 <br/>
