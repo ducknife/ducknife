@@ -80,7 +80,3 @@ currently:
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:112240,100:233554&height=120&section=footer" width="100%" />
 </p>
-
-<p align="center">
-    <samp><b>"Clean code always looks like it was written by someone who cares."</b></samp>
-</p>
